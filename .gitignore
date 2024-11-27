@@ -1,2 +1,9 @@
+# vim swaps
+.*.sw?
+
 # AndroidStudio stuff
 .idea/
+
+# build artifacts handled by flutter clean
+build/
+.dart_tool/
