@@ -29,6 +29,19 @@ And to run on that emulator:
 
 ## Getting Started
 
+How this project was created:
+
+    flutter create --project-name flutterby --template app flutterby
+    cd flutterby
+
+Now the code can be amended in `lib/main.dart` as needed, go wild and learn by
+trying stuff. If you haven't changed anything, the default app is a good demo.
+Run it and see:
+
+    flutter run -d mobile_xyz
+
+## Other Resources
+
 Other ideas might be found in the [Cookbook][cook] or the rest of the [docs][doc].
 
 [lab]:  https://docs.flutter.dev/get-started/codelab
