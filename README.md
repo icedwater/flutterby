@@ -4,8 +4,8 @@ Working through a basic Flutter project from the public introductory [codelab][l
 
 This generates a combination of two words when a button is clicked.
 
-We assume that the [install steps][inst] are already done and some Android SDK is
-already on the system, since the codelab chooses to go with Android first.
+The first part of the codelab is to [install][inst] some Android SDK which lets you
+then proceed on the editor/environment of your choice, even if it is not VS Code.
 
 ## Architectures
 
